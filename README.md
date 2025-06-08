@@ -10,6 +10,9 @@
 - 📄 [Goldilock Apartment Management](https://github.com/leapoffaithshipit/Goldilock-Apartment-Management-)  
   React app that parses resumes and provides job-matching insights using AI.
 
+- 📄 [UTM Career Centre Company Management](https://github.com/hafiyhakimi/PlantFeedWeb)  
+  React app that parses resumes and provides job-matching insights using AI.
+
 - 📄 [EduStream Hub](https://github.com/hafiyhakimi/PlantFeedWeb)  
   React app that parses resumes and provides job-matching insights using AI.
 
@@ -20,6 +23,9 @@
   React app that parses resumes and provides job-matching insights using AI.
 
 - 📄 [Event Booking](https://github.com/ahmkhairy/event-booking)  
+  React app that parses resumes and provides job-matching insights using AI.
+
+- 📄 [Interactive Quiz Application](https://github.com/ahmkhairy/event-booking)  
   React app that parses resumes and provides job-matching insights using AI.
 
 ### 🛠️ Tech Stack
