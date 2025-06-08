@@ -31,5 +31,8 @@
 - 📄 [DSA Project Student Progress Tracking System](https://github.com/ahmkhairy/event-booking)  
   React app that parses resumes and provides job-matching insights using AI.
 
+- 📄 [HealthSphere - In Progress](https://github.com/ahmkhairy/event-booking)  
+  React app that parses resumes and provides job-matching insights using AI.
+
 ### 🛠️ Tech Stack
 React · Node.js · Express · MongoDB · C# · WPF · SQLite
