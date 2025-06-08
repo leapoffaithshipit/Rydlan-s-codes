@@ -28,5 +28,8 @@
 - 📄 [Interactive Quiz Application](https://github.com/ahmkhairy/event-booking)  
   React app that parses resumes and provides job-matching insights using AI.
 
+- 📄 [DSA Project Student Progress Tracking System](https://github.com/ahmkhairy/event-booking)  
+  React app that parses resumes and provides job-matching insights using AI.
+
 ### 🛠️ Tech Stack
 React · Node.js · Express · MongoDB · C# · WPF · SQLite
