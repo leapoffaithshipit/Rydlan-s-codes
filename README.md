@@ -7,5 +7,19 @@
 - 📄 [Smart Resume Analyzer](https://github.com/rydlancode/resume-analyzer)  
   React app that parses resumes and provides job-matching insights using AI.
 
+- 📄 [Goldilock Apartment Management](https://github.com/leapoffaithshipit/Goldilock-Apartment-Management-)  
+  React app that parses resumes and provides job-matching insights using AI.
+
+
+
+
+  
+
+- 📄 [Smart Resume Analyzer](https://github.com/hafiyhakimi/PlantFeedWeb)  
+  React app that parses resumes and provides job-matching insights using AI.
+
+- 📄 [Smart Resume Analyzer](https://github.com/ahmkhairy/event-booking)  
+  React app that parses resumes and provides job-matching insights using AI.
+
 ### 🛠️ Tech Stack
 React · Node.js · Express · MongoDB · C# · WPF · SQLite
