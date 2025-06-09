@@ -13,7 +13,7 @@
 - 📄 [UTM Career Centre Company Management](https://github.com/hafiyhakimi/PlantFeedWeb)  
   React app that parses resumes and provides job-matching insights using AI.
 
-- 📄 [EduStream Hub](https://github.com/hafiyhakimi/PlantFeedWeb)  
+- 📄 [EduStream Hub](https://github.com/leapoffaithshipit/EduStreamHub)  
   React app that parses resumes and provides job-matching insights using AI.
 
 - 📄 [BenchSphere PC CPU Benchmarking Tool](https://github.com/ahmkhairy/event-booking)  
