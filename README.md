@@ -10,7 +10,7 @@
 - 📄 [Goldilock Apartment Management](https://github.com/leapoffaithshipit/Goldilock-Apartment-Management-)  
   React app that parses resumes and provides job-matching insights using AI.
 
-- 📄 [UTM Career Centre Company Management](https://github.com/hafiyhakimi/PlantFeedWeb)  
+- 📄 [UTM Career Centre Company Management](https://github.com/leapoffaithshipit/utm_cc_management)  
   React app that parses resumes and provides job-matching insights using AI.
 
 - 📄 [EduStream Hub](https://github.com/leapoffaithshipit/EduStreamHub)  
