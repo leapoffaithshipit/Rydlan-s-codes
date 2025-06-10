@@ -1,38 +1,42 @@
-## 👋 Hi, I'm Rydlan — Full Stack Developer
+## 👋 Hi, I'm Ridwan - Full Stack Developer
 
 ### 🚀 Featured Projects
 - 🕘 [JoC Attendance System](https://github.com/leapoffaithshipit/joc-attendance)  
   A full-stack system with real-time check-ins, role-based access, and report generation.
 
-- 📄 [Smart Resume Analyzer](https://github.com/leapoffaithshipit/smart-resume-analyzer)  
-  React app that parses resumes and provides job-matching insights using AI.
+- 📄 [Smart AI Resume Analyzer](https://github.com/leapoffaithshipit/smart-resume-analyzer)  
+  An AI-powered tool that analyzes resumes and provides job-matching insights based on descriptions and skills.
 
 - 📄 [Goldilock Apartment Management](https://github.com/leapoffaithshipit/Goldilock-Apartment-Management-)  
-  React app that parses resumes and provides job-matching insights using AI.
+  A complete apartment management system with modules for residents, management staff, guards, and visitors.
 
 - 📄 [UTM Career Centre Company Management](https://github.com/leapoffaithshipit/utm_cc_management)  
-  React app that parses resumes and provides job-matching insights using AI.
+  A desktop-based company data management system developed for UTM Career Centre, using C# and SQLite.
 
 - 📄 [EduStream Hub](https://github.com/leapoffaithshipit/EduStreamHub)  
-  React app that parses resumes and provides job-matching insights using AI.
+  Malaysian government school streaming and course management platform designed to enhance learning accessibility.
 
 - 📄 [BenchSphere PC CPU Benchmarking Tool](https://github.com/ahmkhairy/event-booking)  
-  React app that parses resumes and provides job-matching insights using AI.
+  A benchmarking and hardware diagnostic tool that provides detailed system specs and performance tests, similar to CPU-Z and GPU-Z.
 
 - 📄 [PlantFeedWeb](https://github.com/hafiyhakimi/PlantFeedWeb)  
-  React app that parses resumes and provides job-matching insights using AI.
+  A Python-based plant growth monitoring app was developed for an application development course.
 
 - 📄 [Event Booking](https://github.com/ahmkhairy/event-booking)  
-  React app that parses resumes and provides job-matching insights using AI.
+  A full-stack event booking website built for a university Web Technology course, using RESTful APIs.
 
 - 📄 [Interactive Quiz Application](https://github.com/ahmkhairy/event-booking)  
-  React app that parses resumes and provides job-matching insights using AI.
+  A simple and responsive quiz web app for testing general knowledge and concepts interactively.
 
 - 📄 [DSA Project Student Progress Tracking System](https://github.com/ahmkhairy/event-booking)  
-  React app that parses resumes and provides job-matching insights using AI.
+  A C++ console-based project to track student progress using basic data structures and logic.
 
 - 📄 [HealthSphere - In Progress](https://github.com/ahmkhairy/event-booking)  
-  React app that parses resumes and provides job-matching insights using AI.
+  A real-time health monitoring and AI assistant platform that analyzes smartwatch and wearable data for personal health insights.
 
 ### 🛠️ Tech Stack
-React · Node.js · Express · MongoDB · C# · WPF · SQLite
+React · Node.js · Express.js · MongoDB · Python · C# · WPF · SQLite · FastAPI · Flutter · C++ · MATLAB · Firebase · RESTful APIs · Git · Docker · Figma · AWS · Google Cloud · Azure
+
+
+
+
