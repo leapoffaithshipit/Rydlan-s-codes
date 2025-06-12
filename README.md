@@ -1,22 +1,22 @@
 ## 👋 Hi, I'm Ridwan - Full Stack Developer
 
 ### 🚀 Featured Projects
-- 🕘 [JoC Attendance System](https://github.com/leapoffaithshipit/joc-attendance)  
+- 🕘 [JoC Attendance System](https://github.com/leapoffaithshipit/joc-attendance)  Private
   A full-stack system with real-time check-ins, role-based access, and report generation.
 
-- 📄 [Smart AI Resume Analyzer](https://github.com/leapoffaithshipit/smart-resume-analyzer)  
+- 📄 [Smart AI Resume Analyzer](https://github.com/leapoffaithshipit/smart-resume-analyzer)  Private
   An AI-powered tool that analyzes resumes and provides job-matching insights based on descriptions and skills.
 
-- 📄 [Goldilock Apartment Management](https://github.com/leapoffaithshipit/Goldilock-Apartment-Management-)  
+- 📄 [Goldilock Apartment Management](https://github.com/leapoffaithshipit/Goldilock-Apartment-Management-)  Private
   A complete apartment management system with modules for residents, management staff, guards, and visitors.
 
-- 📄 [UTM Career Centre Company Management](https://github.com/leapoffaithshipit/utm_cc_management)  
+- 📄 [UTM Career Centre Company Management](https://github.com/leapoffaithshipit/utm_cc_management)  Private
   A desktop-based company data management system developed for UTM Career Centre, using C# and SQLite.
 
 - 📄 [EduStream Hub](https://github.com/leapoffaithshipit/EduStreamHub)  
   Malaysian government school streaming and course management platform designed to enhance learning accessibility.
 
-- 📄 [BenchSphere PC CPU Benchmarking Tool](https://github.com/ahmkhairy/event-booking)  
+- 📄 [BenchSphere PC CPU Benchmarking Tool](Private)  
   A benchmarking and hardware diagnostic tool that provides detailed system specs and performance tests, similar to CPU-Z and GPU-Z.
 
 - 📄 [PlantFeedWeb](https://github.com/hafiyhakimi/PlantFeedWeb)  
@@ -31,7 +31,7 @@
 - 📄 [DSA Project Student Progress Tracking System](https://github.com/ahmkhairy/event-booking)  
   A C++ console-based project to track student progress using basic data structures and logic.
 
-- 📄 [HealthSphere - In Progress](https://github.com/ahmkhairy/event-booking)  
+- 📄 [HealthSphere - In Progress]()  
   A real-time health monitoring and AI assistant platform that analyzes smartwatch and wearable data for personal health insights.
 
 ### 🛠️ Tech Stack
