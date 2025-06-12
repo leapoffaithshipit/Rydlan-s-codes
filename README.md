@@ -1,22 +1,22 @@
 ## 👋 Hi, I'm Ridwan - Full Stack Developer
 
 ### 🚀 Featured Projects
-- 🕘 [JoC Attendance System](https://github.com/leapoffaithshipit/joc-attendance)  Private
+- 🕘 [JoC Attendance System - Private](https://github.com/leapoffaithshipit/joc-attendance)  
   A full-stack system with real-time check-ins, role-based access, and report generation.
 
-- 📄 [Smart AI Resume Analyzer](https://github.com/leapoffaithshipit/smart-resume-analyzer)  Private
+- 📄 [Smart AI Resume Analyzer - Private](https://github.com/leapoffaithshipit/smart-resume-analyzer)  Private
   An AI-powered tool that analyzes resumes and provides job-matching insights based on descriptions and skills.
 
-- 📄 [Goldilock Apartment Management](https://github.com/leapoffaithshipit/Goldilock-Apartment-Management-)  Private
+- 📄 [Goldilock Apartment Management - Private](https://github.com/leapoffaithshipit/Goldilock-Apartment-Management-)  Private
   A complete apartment management system with modules for residents, management staff, guards, and visitors.
 
-- 📄 [UTM Career Centre Company Management](https://github.com/leapoffaithshipit/utm_cc_management)  Private
+- 📄 [UTM Career Centre Company Management - Private](https://github.com/leapoffaithshipit/utm_cc_management)  Private
   A desktop-based company data management system developed for UTM Career Centre, using C# and SQLite.
 
 - 📄 [EduStream Hub](https://github.com/leapoffaithshipit/EduStreamHub)  
   Malaysian government school streaming and course management platform designed to enhance learning accessibility.
 
-- 📄 [BenchSphere PC CPU Benchmarking Tool](Private)  
+- 📄 [BenchSphere PC CPU Benchmarking Tool - Private](Private)  
   A benchmarking and hardware diagnostic tool that provides detailed system specs and performance tests, similar to CPU-Z and GPU-Z.
 
 - 📄 [PlantFeedWeb](https://github.com/hafiyhakimi/PlantFeedWeb)  
