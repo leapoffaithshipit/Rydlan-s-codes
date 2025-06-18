@@ -4,6 +4,9 @@
 - 🕘 [JoC Attendance System - Private](https://github.com/leapoffaithshipit/joc-attendance)  
   A full-stack system with real-time check-ins, role-based access, and report generation.
 
+- 🕘 [Goldilock AI-Powered Fact Checker - Private](Not Uploaded Yet)  
+  Developed a semantic fact-checking pipeline that enhanced accuracy by 80%. This was achieved through the integration of DeepSeekR1 (for claim extraction), Sentence Transformers/FAISS (for embeddings and matching), and Requests/BeautifulSoup 4 (for web scraping live evidence and reliability scoring).
+
 - 📄 [Smart AI Resume Analyzer - Private](https://github.com/leapoffaithshipit/smart-resume-analyzer)  Private
   An AI-powered tool that analyzes resumes and provides job-matching insights based on descriptions and skills.
 
