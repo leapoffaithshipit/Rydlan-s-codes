@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Ridwan - Full Stack Developer
+##  Hi, I'm Ridwan - Full Stack Developer
 
-### 🚀 Featured Projects
+###  Featured Projects
 - 🕘 [JoC Attendance System - Private](https://github.com/leapoffaithshipit/joc-attendance)  
   A full-stack system with real-time check-ins, role-based access, and report generation.
 
